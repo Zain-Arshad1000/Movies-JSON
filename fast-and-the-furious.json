@@ -2,10 +2,10 @@
 	"Fast and the Furious" : {
 		"Fast and the Furious" : {
 			"movie_id" : 1,
-			"title" : "Fast and the Furious",
+            "title" : "Fast and the Furious",
             "theatrical_release_order" : 1,
             "true_chronological_order" : 1,
-			"category_name" : "Action",
+            "category_name" : "Action",
 			"release_year" : 2001,
 			"running_time" : 107,
 			"rating_name" : "PG-13",
@@ -14,7 +14,7 @@
 			"viewing_format_name" : "Widescreen",
 			"aspect_ratio_name" : " 2.35:1",
 			"status" : 1,
-			"time_stamp" : "2015-02-22"
+			"time_stamp" : "2017-10-05"
 		},
 		"2 Fast 2 Furious" : {
 			"movie_id" : 2,
