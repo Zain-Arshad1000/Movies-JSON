@@ -3,8 +3,7 @@
 ## Popular movie lists in json format
 
 The main purpose of this repo is to have some ready to go json data to use when writing 
-front end development projects using Angular, Backbone, Knockout or other MVC/* frameworks and libraries. And 
-I also really enjoy watching movies, so I decided to base my examples on some popular film series.
+front end development projects using Angular, Ember, Backbone or other MVC/* frameworks and libraries. Because I enjoy watching movies, I decided to base the lists on some popular film series.
 
 My current lists include these awesome film series:
 
