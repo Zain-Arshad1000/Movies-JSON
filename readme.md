@@ -1,24 +1,21 @@
-# Movies JSON
+## Movies JSON
 
-## Popular movie lists in json format
+### Popular movie lists in json format
 
 The main purpose of this repo is to have some ready to go json data to use when writing 
 front end development projects using Angular, Ember, Backbone or other MVC/* frameworks and libraries. Because I enjoy watching movies, I decided to base the lists on some popular film series.
 
-My current lists include these awesome film series:
+My current JSON files include these film series:
 
+* Awesome Martial Arts Cinema
+* Awesome Science Fiction
 * Fast and the Furious
 * Harry Potter
 * Lord of the Rings
 * Marvel Cinematic Universe
 * Star Wars
 
-Recently Added:
-
-* Awesome Martial Arts Cinema
-* Awesome Science Fiction
-
-**Sample JSON data format**
+**Sample JSON data format:**
 
 	"Lord of the Rings" : {
       "The Fellowship of the Ring": {
