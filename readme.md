@@ -1,9 +1,9 @@
 ## Movies JSON
 
-### Popular movie lists in json format
+### Popular movie lists in JSON format
 
-The main purpose of this repo is to have some ready to go json data to use when writing 
-front end development projects using Angular, Ember, Backbone or other MVC/* frameworks and libraries. Because I enjoy watching movies, I decided to base the lists on some popular film series.
+The purpose of this repo is to store JSON movie data for use in the development of  
+front end projects using Backbone, Angular, React, Vue and other MV* frameworks. 
 
 My current JSON files include these film series:
 
